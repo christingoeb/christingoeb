@@ -7,7 +7,6 @@
             </router-link>
             <h1>Impressum</h1>
             <section>
-                <h2>Angaben gemaess Paragraph 5 TMG</h2>
                 <p>
                     Christin Göb<br />
                     04249 Leipzig<br />
