@@ -50,6 +50,7 @@ const currentYear = new Date().getFullYear();
     <footer class="cv-footer">
       <p>© {{ currentYear }} Christin Göb</p>
       <router-link to="/impressum">Impressum</router-link>
+      <router-link to="/datenschutz">Datenschutz</router-link>
     </footer>
   </div>
 </template>

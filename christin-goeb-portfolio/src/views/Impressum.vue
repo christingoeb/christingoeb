@@ -5,8 +5,12 @@
                 <span aria-hidden="true">←</span>
                 <span>Zurück zur Homepage</span>
             </router-link>
+
             <h1>Impressum</h1>
+
             <section>
+                <h2>Angaben gemäß § 5 DDG</h2>
+
                 <p>
                     Christin Göb<br />
                     04249 Leipzig<br />
@@ -16,23 +20,23 @@
 
             <section>
                 <h2>Kontakt</h2>
+
                 <p>
                     E-Mail:
-                    <a href="mailto:christin.goeb@t-online.de">christin.goeb@t-online.de</a>
+                    <a href="mailto:christin.goeb@t-online.de">
+                        christin.goeb@t-online.de
+                    </a>
                 </p>
             </section>
 
-            <!-- <section>
-                <h2>Verantwortlich fuer den Inhalt</h2>
-            </section> -->
+            <section>
+                <h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
 
-            <!-- <section>
-                <h2>Hinweis</h2>
                 <p>
-                    Dieses Impressum ist eine Vorlage. Bitte pruefe und ergaenze alle Angaben,
-                    damit sie zu deiner tatsaechlichen Situation passen.
+                    Christin Göb<br />
+                    04249 Leipzig
                 </p>
-            </section> -->
+            </section>
         </main>
     </div>
 </template>
